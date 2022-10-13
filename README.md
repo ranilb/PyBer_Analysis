@@ -5,7 +5,9 @@ This analysis was performed to determine relationships between three types of ci
 
 
 ### Resources
-Data source: city_data.csv and ride_data.csv                                                                                                             Software: Python 3.7.13, Pandas libraries, the Jupyter Notebook and Matplotlib 
+Data source: city_data.csv and ride_data.csv    
+
+Software: Python 3.7.13, Pandas libraries, the Jupyter Notebook and Matplotlib 
 
 
 ## PyBer Analysis Results
@@ -29,4 +31,4 @@ From the preceding graph, it can be observed that the weekly fare in urban citie
 
 
 ## PyBer Analysis Summary
-According to the information extracted from the two data sets, there are more drives in urban cities than in suburban and rural cities. This lead to the low average fare for the drivers in urban cities than the drivers in suburban and rural cites. On the other hand, the riders in urban cities get better rates due to higher number of drivers. Also, this may be due to short distances, but there is no data to compare the distances. In the graph of the "total fare by city type", the total fare for urban and suburban cities are lower at the begining of the uear. This may be due to seasonal effecs. Finally, the suburban cities are better for riders compared to the riders in rural cities and also better for drivers compated to the drivers in urban cities.
+According to the information extracted from the two data sets, there are more drivers in urban cities than in suburban and rural cities. This leads to the low average fare for the drivers in urban cities than the drivers in suburban and rural cites. On the other hand, the riders in urban cities get better rates due to higher number of drivers. Also, this may be due to short distances, but there is no data to compare the distances. In the graph of the "total fare by city type", the total fare for urban and suburban cities are lower at the begining of the uear. This may be due to seasonal effecs. Finally, the suburban cities are better for riders compared to the riders in rural cities and also better for drivers compated to the drivers in urban cities.
